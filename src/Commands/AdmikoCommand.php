@@ -1,12 +1,12 @@
 <?php
 
-namespace VendorName\Skeleton\Commands;
+namespace Webaction\Admiko\Commands;
 
 use Illuminate\Console\Command;
 
-class SkeletonCommand extends Command
+class AdmikoCommand extends Command
 {
-    public $signature = 'skeleton';
+    public $signature = 'admiko-laravel';
 
     public $description = 'My command';
 
